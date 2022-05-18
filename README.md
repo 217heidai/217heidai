@@ -1,4 +1,4 @@
 <a href="#">
-<img src="https://github-readme-stats.vercel.app/api?username=217heidai&show_icons=true&hide_border=true&icon_color=000&title_color=000&include_all_commits_disable=true&custom_title=Meow~&count_private=true">
+<img src="https://github-readme-stats-mrdulin.vercel.app/api?username=217heidai&show_icons=true&hide_border=true&include_all_commits=true&hide_title=true" align="right"">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=217heidai&hide_border=true&title_color=000&layout=compact">
 </a>
